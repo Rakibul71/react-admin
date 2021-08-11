@@ -1,5 +1,7 @@
 yarn add @material-ui/icons
 yarn add @material-ui/core
 yarn add recharts
+yarn add react-router-dom
+@material-ui/data-grid
 
 // adding chart from recharts.org
